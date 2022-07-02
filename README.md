@@ -1,2 +1,1 @@
-# jbamenorfe.github.io
-Published tinDog Project Website
+TinDog Starting Files
